@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+}
+
+img{
+    border: 20%;
+    border: 8px solid gray;
+}
+
+.titulo{
+    font-size: 38px;
+    color: darkblue;
+}
+
+.subtitulo{
+    font-size: 28px;
+    color: darkred;
+}
+
+.contato{
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 150%;
+}
+
+body{
+    background-color: bisque;
+}
+
+h3{
+    font-size: 15px;
+    color: blueviolet;
+}
+
+ul{
+    font-size: 20px;
+}
